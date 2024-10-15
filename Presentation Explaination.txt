@@ -1,0 +1,39 @@
+1.Cryptomining and Cryptojacking:
+
+Cryptomining involves performing complex computational tasks to obtain cryptocurrency.
+
+Cryptojacking is the unauthorized use of someone’s computer to mine cryptocurrency without their permission.
+
+2.Impact of Cryptojacking:
+
+Cryptojacking affects large businesses, as seen with incidents involving Tesla and Jenkins.
+
+It leads to increased power consumption, decreased performance, and potential damage to hardware.
+
+3.Monero vs. Bitcoin:
+
+Monero is often used in cryptojacking because it can be mined through multiple computational resources, unlike Bitcoin, which requires specialized hardware.
+
+Monero provides better privacy compared to Bitcoin, making it appealing for malicious purposes.
+
+4.Tools like Coinhive:
+
+Coinhive is a JavaScript library used to mine Monero directly from browsers.
+
+Although Coinhive was intended as a legitimate revenue source, it became widely used for cryptojacking due to the lack of enforced user permission or CPU throttling.
+
+5.Defensive Measures:
+
+Blocking cryptomining can be achieved through browser extensions like AdBlock Plus, NoCoin, and MinerBlock.
+
+Monitoring CPU usage and performance can help detect cryptojacking activities.
+
+6.Challenges in Detection:
+
+Cryptojackers have evolved to use proxy networks, making detection more difficult.
+
+Extensions like MinerBlock not only block known scripts but also monitor for cryptomining behavior.
+
+7.Potential Legitimate Uses:
+
+In-browser cryptomining could be a legitimate source of revenue for websites if implemented responsibly, with user consent and minimal impact on device performance
